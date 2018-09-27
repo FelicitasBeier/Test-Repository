@@ -1,2 +1,2 @@
 # Test-Repository
-test
+The test repository is used to familiarize myself with GitHub
